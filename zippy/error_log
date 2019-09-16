@@ -1,0 +1,1 @@
+[13-Oct-2018 16:48:02 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Booking::getPaidFreightAttribute() in /home/nfsnop0pe8xj/public_html/zippy/app/Booking.php on line 128

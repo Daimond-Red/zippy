@@ -1,0 +1,1 @@
+{!!  HTML::vtext('title') !!}

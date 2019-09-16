@@ -1,0 +1,873 @@
+@media (min-width:1601px) and (max-width:1920px){
+	/* #content{
+		padding-left: 13%;
+	} */
+	.logo{
+		margin-left: 20px;
+	}
+	.user.pull-right.btn{
+		margin-right: 20px;
+	}
+}
+@media (min-width:1025px) and (max-width:1300px){
+	/*Login*/
+	.login-detail img{
+		width: 170px;
+    	padding: 20px 0px;
+	}
+	.login-detail h1{
+		font-size: 26px;
+	}
+	.login-detail p{
+		font-size: 13px;
+	}
+	.login-form .form-control{
+		font-size: 12px;
+		padding: 8px 10px 8px 50px;
+	}
+	.login-form img{
+		width: 20px;
+		height: 20px;
+	}
+	.login-form .btn-main{
+		font-size: 14px;
+	}
+	.login-form .btn-main span{
+		width: 20px;
+		height: 20px;
+		top: 8px;
+	}
+	.login-form p{
+		font-size: 12px;
+	}
+
+	.deliver-img img{
+		width: 100%;
+		height: auto;
+		padding: 20px 0;
+	}
+	/*Login end*/
+
+	/*sign-up*/
+	.signup-form{
+		width: 100%;
+		margin-left: 25px;
+	}
+	.signup-form p{
+		font-size: 13px;
+	}
+	.signup-form .login-form .form-control{
+		padding: 8px 10px 8px 50px;
+	}
+	.signup-form .login-form img{
+		width: 20px;
+		height: 20px;
+	}
+	.signup-form .login-form p{
+		font-size: 12px;
+	}
+	.signup-form .login-form p a{
+		font-size: 12px;
+	}
+	/*sign-up end*/
+
+	/*index*/
+	.quality{
+		padding: 30px 0;
+	}
+	.quality h3{
+		font-size: 27px;
+		margin: 0 0 10px;
+	}
+	.quality p{
+		font-size: 14px;
+		line-height: 24px;
+	}
+
+	.procees-req h1{
+		font-size: 27px;
+		margin: 0 0 20px;
+	}
+	.data-req h2{
+		font-size: 16px;
+	}
+	.data-req p{
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.data-req{
+		width: 100%;
+	}
+	.req-img{
+		margin: 30px auto 30px;
+	}
+
+	.about-zippy{
+		background-size: 402px 125px;
+	}
+	.about-zippy h2{
+		padding: 22px 0 0px 30px;
+	}
+	.date-about{
+		padding: 30px 0;
+	}
+	.date-about p{
+		font-size: 14px;
+		line-height: 24px;
+	}
+
+	.mobile-devises{
+		padding: 35px 0;
+	}
+	.available p{
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.join-us .btn-main{
+		width: 100%;
+		padding: 12px 0;
+	}
+
+	.partner-info h3{
+		font-size: 35px;
+	}
+	.partner-info p:nth-child(2){
+		font-size: 16px;
+	}
+	.partner-info p{
+		font-size: 16px;
+	}
+		
+	.mobile-info{
+		padding: 20px 0;
+	} 
+	.mobile-info .mobile-detail p{
+		font-size: 16px;
+	}
+	.mobile-app img{
+		height: auto;
+		margin-top: 16px;
+	}
+	
+	.subscribe h1{
+		font-size: 24px;
+		padding: 10px 0; 
+	}
+	.subscribe p{
+		font-size: 16px;
+	}
+	.subscribe .domain-name{
+		font-size: 18px;
+		padding: 10px 110px;
+		margin: 30px auto;
+	}
+
+	/* #sidebar{
+		width: 185px;
+	} */
+	#sidebar ul li a{
+		font-size: 12px;
+	}
+	.nav-barup{
+		padding-right: 90px;
+	}
+	.loavc-total{
+		padding-right: 130px;
+	}
+	.total-dis{
+		width: 100%;
+	}
+	
+	/*index end*/
+}
+@media (min-width:769px) and (max-width:1024px){
+	/*Login*/
+	.login-wrapper{
+		width: 70%;
+	}
+	.login-detail img{
+		width: 170px;
+    	padding: 20px 0px;
+	}
+	.login-detail h1{
+		font-size: 26px;
+	}
+	.login-detail p{
+		font-size: 12px;
+	}
+	.login-form .form-control{
+		font-size: 12px;
+		padding: 8px 10px 8px 50px;
+	}
+	.login-form img{
+		width: 20px;
+    	height: 20px;
+    	top: 8px;
+	}
+	.login-form .btn-main{
+		font-size: 14px;
+		padding: 8px 10px;
+		margin: 40px auto 10px;
+	}
+	.login-form .btn-main span{
+		height: 15px;
+    	width: 20px;
+    	top: 12px;
+	}
+	.login-form p{
+		font-size: 12px;
+	}
+	
+	.deliver-img img{
+		width: 100%;
+		height: auto;
+		padding: 20px 0;
+	}
+	/*Login end*/
+
+	/*sign-up*/
+	.signup-form{
+		width: 100%;
+		margin-left: 18px;
+	}
+	.signup-form p{
+		font-size: 12px;
+	}
+	.signup-form .login-form .form-control{
+		padding: 8px 10px 8px 35px;
+		font-size: 11px;
+	}
+	.signup-form .login-form img{
+		width: 20px;
+		height: 20px;
+		top: 6px;
+		left: 9px;
+	}
+	.signup-form .login-form p{
+		font-size: 12px;
+	}
+	.signup-form .login-form p a{
+		font-size: 12px;
+	}
+	.login-form .register-btn{
+		font-size: 13px;
+	}
+	.login-form .register-btn span{
+		top: 9px;
+	}
+	/*sign-up end*/
+
+	/*index*/
+	.our-process{
+		margin-top: 60px;
+	}
+
+	.head-right-btn a.btn-main{
+		font-size: 13px;
+	}
+
+	.our-process-text{
+		margin-top: 0;
+	}
+	.our-process-text h2{
+		font-size: 30px;
+	}
+	.our-process-text a{
+		margin: 10px 0 30px;
+		font-size: 13px;
+	}
+	.our-process-img img{
+		width: 80%;
+    	margin: 0px auto;
+	}
+
+	.quality{
+		padding: 30px 0;
+	}
+	.quality h3{
+		font-size: 27px;
+		margin: 0 0 10px;
+	}
+	.quality p{
+		font-size: 14px;
+		line-height: 24px;
+	}
+	
+	.search-block p{
+		font-size: 18px;
+	}
+	.search-block .btn-main{
+		padding: 10px 50px;
+	}
+	
+	.box-req:after{
+		right: -66px;
+    	width: 104px;
+	}
+	.submit-package:after{
+		width: 200px;
+		right: auto;
+	}
+	.procees-req h1{
+		font-size: 27px;
+		margin: 0 0 20px;
+	}
+	.data-req h2{
+		font-size: 16px;
+	}
+	.data-req p{
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.data-req{
+		width: 100%;
+	}
+	.req-img{
+		width: 100px;
+		height: 100px;
+		padding: 15px;
+		margin: 30px auto 30px;
+	}
+	.submit-package span{
+		height: 150px;
+	}
+	.box-req span{
+		width: 100px;
+	}
+	.submit-package span{
+		bottom: -170px;
+	}
+	.sec-req{
+		margin-top: 180px;
+	}
+
+	.about-zippy{
+		background-size: 402px 125px;
+	}
+	.about-zippy h2{
+		padding: 22px 0 0px 30px;
+	}
+	.date-about{
+		padding: 30px 0;
+	}
+	.date-about p{
+		font-size: 14px;
+		line-height: 24px;
+	}
+
+	.mobile-devises{
+		padding: 35px 0;
+	}
+	.available p{
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.join-us .btn-main{
+		width: 100%;
+		padding: 12px 0;
+	}
+
+	.partner-info h3{
+		font-size: 35px;
+	}
+	.partner-info p:nth-child(2){
+		font-size: 16px;
+	}
+	.partner-info p{
+		font-size: 16px;
+	}
+		
+	.mobile-info{
+		padding: 20px 0;
+	} 
+	.mobile-info .mobile-detail p{
+		font-size: 16px;
+	}
+	.mobile-app img{
+		height: auto;
+		margin-top: 16px;
+	}
+	
+	.subscribe h1{
+		font-size: 24px;
+		padding: 10px 0; 
+	}
+	.subscribe p{
+		font-size: 16px;
+	}
+	.subscribe .domain-name{
+		font-size: 18px;
+		padding: 10px 110px;
+		margin: 30px auto;
+	}
+	/*index end*/
+
+	/*customer-admin*/
+	.admin-header .top-bar .user{
+		padding-right: 20px;
+	}
+	.picup-wrap .form-group img{
+		top: 39px;
+		left: 14px;
+		height: 18px;
+		width: 19px;
+	}
+	
+	.inches-list .col-md-4{
+		padding: 0 10px;
+	}
+	.inches-list .form-group .form-control{
+		padding: 8px 10px 8px 29px; 
+	}
+	.inches-list .form-group img{
+		top: 8px;
+		left: 8px;
+		height: 18px;
+		width: 19px;
+	}
+	
+	.loavc-total{
+		padding: 0;
+		margin: 0;
+	}
+	.total-dis{
+		width: 80%;
+		margin: 50px 38px;
+	}
+	/*customer-admin end*/
+
+	/*booking-confirmed*/
+	.booked-cf{
+		padding: 20px 20px;
+	}
+	.veh-block img{
+		margin: 0 auto;
+	}
+	.booked-cf p{
+		font-size: 12px;
+	}
+	.booked-cf h3{
+		font-size: 18px;
+	}
+	.add-cnf{
+		width: 70%;
+	}
+	.cnf-log{
+		float: right;
+	}
+	.booking-info h4{
+		font-size: 18px;
+	}
+
+	#sidebar{
+		width: 165px;
+	}
+	#sidebar ul li a{
+		font-size: 12px;
+		padding: 12px 10px;
+	}
+	/* #content{
+		padding-left: 16%;
+	} */
+	/*booking-confirmed end*/
+}
+@media (min-width:310px) and (max-width:768px){
+	/*Login*/
+	.login-wrapper{
+		width: 100%;
+	}
+	.login-detail img{
+		width: 180px;
+		padding: 25px 0;
+	}
+	.login-detail h1{
+		font-size: 30px; 
+	}
+	.login-detail p{
+		font-size: 13px;
+	}
+	.login-form .form-control{
+		font-size: 12px;
+	}
+	.login-form .btn-main{
+		font-size: 14px;
+	}
+	.login-form .btn-main span{
+		width: 20px;
+		height: 20px;
+		top: 9px;
+	}
+	.login-form p{
+		font-size: 12px;
+	}
+
+	.deliver-img img{
+		width: 100%;
+    	height: auto;
+	}
+	/*Login end*/
+
+	/*sign-up*/
+	.register-page img{
+		width: 100%;
+		position: static;
+		display: none;
+	}
+
+	.register-img img{
+		display: table;
+		width: 100%;
+	}
+
+	.signup-form{
+		width: 100%;
+		margin-left: 0;
+	}
+	.signup-form p{
+		font-size: 13px;
+	}
+	.signup-form .login-form .form-control{
+		padding: 8px 10px 8px 50px;
+	}
+	.signup-form .login-form img{
+		width: 20px;
+		height: 20px;
+	}
+	.signup-form .login-form p{
+		font-size: 12px;
+	}
+	.signup-form .login-form p a{
+		font-size: 12px;
+	}
+	.register-img{
+		display:block;
+		width: 100%;
+	}
+	/*sign-up end*/
+
+	/*index*/
+	.header .main-logo{
+		float: none;
+		display: table;
+		margin: 0 auto;
+	}
+	.head-right-btn{
+		float: none;
+		margin: 30px auto 20px;
+		display: table;
+	}
+	.head-right-btn a.btn-main{
+		font-size: 13px;
+	}
+
+	.our-process-text{
+		margin-top: 0;
+	}
+	.our-process-text h2{
+		font-size: 30px;
+	}
+	.our-process-text a{
+		margin: 20px auto 30px;
+		display: table;
+		font-size: 13px;
+		float: none;
+	}
+	.our-process-img img{
+		width: 80%;
+    	margin: 0px auto;
+	}
+
+	.packing-process img{
+		margin: 0 auto 30px;
+	}
+
+	.quality{
+		padding: 30px 0;
+	}
+	.quality h3{
+		font-size: 22px;
+		margin: 0 0 10px;
+	}
+	.quality p{
+		font-size: 13px;
+		line-height: 22px;
+	}
+	.quality img{
+		padding: 20px 0 0;
+	}
+	
+	.search-block{
+		padding: 50px 0;
+	}
+	.search-block p{
+		font-size: 18px;
+		line-height: 28px;
+		text-align: center;
+		float: none;
+	}
+	.search-block .btn-main{
+		padding: 10px 20px;
+		font-size: 14px;
+		width: 100%;
+		margin: 25px auto 0;
+		display: table;
+	}
+	
+	.sec-req{
+		margin-top: 0;
+	}
+	.procees-req h1{
+		font-size: 24px;
+		margin: 0 0 20px;
+	}
+	.data-req{
+		width: 100%;
+	}
+	.req-img{
+		margin: 30px auto 30px;
+	}
+
+	.about-zippy{
+		background-size: 440px 150px;
+	}
+	.date-about{
+		padding: 30px 0;
+	}
+	.date-about p{
+		font-size: 14px;
+		line-height: 24px;
+	}
+
+	.mobile-devises{
+		padding: 35px 0;
+	}
+	.available h3{
+		font-size: 15px;
+	}
+	.available p{
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.join-us {
+    	padding: 20px 0;
+	}
+	.join-us .btn-main{
+		width: 100%;
+		padding: 12px 0;
+	}
+	.btns-down a img{
+		width: 134px;
+	}
+
+	.partner-info h3{
+		font-size: 30px;
+	}
+	.partner-info p:nth-child(2){
+		font-size: 16px;
+	}
+	.partner-info p{
+		font-size: 16px;
+	}
+
+	.mobile-info .mobile-detail p{
+		font-size: 18px;
+		line-height: 30px;
+	}
+	.mobile-info{
+		padding: 20px 0 30px;
+	}
+	.mobile-detail{
+		padding: 10px 0;
+	}
+	.mobile-app img{
+		height: auto;
+    	width: 300px;
+    	margin: 20px auto;
+	}
+	
+	.subscribe h1{
+		font-size: 24px;
+		padding: 10px 0; 
+	}
+	.subscribe p{
+		font-size: 14px;
+	}
+	.subscribe .domain-name{
+		font-size: 16px;
+		padding: 10px 43px;
+		margin: 30px auto;
+		text-align: center;
+	}
+	
+	.footer{
+		padding: 40px 0;
+	}
+	.footer p{
+		font-size: 13px;
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.footer .pull-right{
+		float: none!important;
+	}
+	.footer ul{
+		margin: 0 auto;
+	}
+	.footer li:before{
+		display: none;
+	}
+	.footer li{
+		width: 100%;
+		margin: 0 auto 5px;
+		text-align: center;
+	}
+	.submit-package span,.box-req span{
+		display: none;
+	}
+
+	.sec-req{
+		display: none;
+	}
+	.resp-section{
+		display: block;
+	}
+	/*index end*/
+
+	/*customer-admin*/
+	.admin-header .top-bar .logo img{
+		margin: 0 auto;
+		display: table;
+	}
+	.top-bar .logo .pull-right{
+		display: table;
+		margin: 0 auto;
+		float: none!important;
+	}
+	.admin-header .top-bar .user{
+		display: table;
+		margin: 0 auto;
+	}
+	.nav-barup{
+		float: none;
+		margin: 10px auto 0;
+		display: table;
+	}
+
+	#sidebar ul li a{
+		font-size: 14px;
+	}
+	.navbar-default{
+		display: block;
+	}
+	.nav-new-res{
+		top: 8%;
+	}
+
+	.admin-order .new-order h1{
+		float: none;
+		text-align: center;
+		margin: 0;
+	}
+
+	.pichup-frm label{
+		font-size: 12px;
+	}
+
+	.pichup-frm .btn-group .btn-main{
+		font-size: 12px;
+		margin: 0;
+		padding: 10px 37px;
+	}
+	.pichup-frm .btn-group .cler{
+		margin-right: 10px;
+	}
+
+	.total-dis{
+		float: none;
+		width: 100%;
+	}
+	/*customer-admin end*/
+
+	/*customer-confirmation*/
+	.new-order p{
+		text-align: center;
+		font-size: 13px;
+	}
+	.new-order .pull-right{
+		float: none!important;
+	}	
+	/*customer-confirmation end*/
+
+	/*booking-confirmed*/
+	.booked-cf{
+		padding: 10px 20px;
+	}
+	.booked-cf p{
+		font-size: 13px;
+	}
+	.booked-cf h3{
+		font-size: 18px;
+	}
+	.cnf-log{
+		width: 100%;
+	}
+
+	.booking-info{
+		padding: 20px 10px;
+	}
+	.booking-info p{
+		font-size: 13px;
+	}
+	.booking-info h4{
+		font-size: 16px;
+	}
+	/*booking-confirmed end*/
+
+	/*suggested-vehicles*/
+	.cnft-book h6{
+		font-size: 14px;
+	}
+	.cnft-book .btn-group{
+		margin: 10px 0;
+	}
+	.cnft-book .btn-main{
+		font-size: 12px;
+		font-size: 12px;
+		margin: 5px 12px 0 0;
+	}	
+
+	#sidebar{
+		display: none;
+	}
+	#content{
+		width: 100%;
+	}
+
+	.nav-barup{
+		display: none;
+	}
+	.res-nav{
+		display: block;
+		float: left;
+	}
+	.res-nav .user img{
+		width: 25px;
+		margin-top: 10px;
+	}
+	.profile-form{
+		width: 100%;
+	}
+	.profile-form .profile-img{
+		margin: 0 auto;
+		width: 80%;
+	}
+	
+	/*suggested-vehicles end*/
+}
+@media (max-width:480px){
+	.nav-new{
+		opacity: 1;
+		visibility: visible;
+		position: fixed;
+	}
+}

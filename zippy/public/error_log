@@ -1,0 +1,48 @@
+[21-May-2018 00:12:06 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/Controllers/Admin/BookingController.php on line 61
+[22-May-2018 06:57:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 06:57:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 06:57:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 06:57:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 06:57:54 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 06:58:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 06:58:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 06:58:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 06:58:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 06:59:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 07:00:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 07:00:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 07:00:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 148
+[22-May-2018 22:41:44 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/nfsnop0pe8xj/public_html/zippy/app/Http/Controllers/Api/BookingController.php on line 4
+[09-Jul-2018 18:30:26 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nfsnop0pe8xj/public_html/zippy/storage/framework/views/386f3b9f250232df73c036e7914e4e06bd9d102a.php on line 51
+[17-Aug-2018 14:51:00 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:51:04 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:51:18 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:51:21 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:51:29 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:51:36 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:51:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:52:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:52:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:52:44 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:52:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:52:59 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:53:12 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:53:17 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:53:22 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:53:36 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:53:44 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:54:10 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:54:11 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:54:34 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:54:36 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[17-Aug-2018 14:54:41 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 358
+[13-Oct-2018 16:47:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Booking::getPaidFreightAttribute() in /home/nfsnop0pe8xj/public_html/zippy/app/Booking.php on line 128
+[26-Dec-2018 12:57:33 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/nfsnop0pe8xj/public_html/zippy/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[07-Jan-2019 10:48:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nfsnop0pe8xj/public_html/zippy/app/Http/helpers.php on line 491
+[24-Jan-2019 15:31:21 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/nfsnop0pe8xj/public_html/zippy/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[11-Jul-2019 17:11:14 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/nfsnop0pe8xj/public_html/zippy/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[29-Jul-2019 12:46:54 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/nfsnop0pe8xj/public_html/zippy/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[16-Aug-2019 14:55:35 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/nfsnop0pe8xj/public_html/zippy/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[06-Sep-2019 19:54:26 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/nfsnop0pe8xj/public_html/zippy/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[06-Sep-2019 19:54:45 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/nfsnop0pe8xj/public_html/zippy/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[06-Sep-2019 20:11:16 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/nfsnop0pe8xj/public_html/zippy/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67

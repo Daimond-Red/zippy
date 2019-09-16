@@ -1,0 +1,70 @@
+@media only screen and (max-width: 500px) {
+    .card {
+        margin-top:10px;
+    }
+}
+
+body{
+	background:white;
+	color:black;
+	font-size:.8rem;
+}
+
+.company-info span{
+	display:block;
+	font-size:.7rem;
+}
+
+.card-header{
+	padding:0;
+	background:black;
+}
+
+.card{
+	background:white;
+	border:1px solid black !important;
+}
+
+
+.card-body.small-card{
+	height:45px;
+	background:white;
+}
+
+.partition{
+    border-right:1px solid black;
+	height:45px;
+}
+
+.big-card{
+	height:190px;
+}
+
+.big-card-body{
+	height:150px;
+}
+
+.accept-card{
+	height:156px;
+}
+
+.accept-div{
+	height:60px;
+}
+
+.receiver{
+	height:60px;
+}
+
+.stamp{
+	margin-left:220px;
+}
+
+table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+ .table th {
+	border-top: 1px solid black;
+ }
